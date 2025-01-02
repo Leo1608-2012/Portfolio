@@ -1,0 +1,16 @@
+:root {
+    --white-color: rgba(255, 255, 255, 1);
+    --add-color:rgba(47, 48, 58, 1);
+}
+footer {
+    background-color: var(--add-color);
+}
+section {
+    background-color: var(--white-color);
+}
+nav {
+    background-color: var(--white-color);
+}
+ul li {
+    color: var(--white-color);
+}

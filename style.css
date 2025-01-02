@@ -1,0 +1,35 @@
+:root {
+    --main-color:rgba(245, 244, 250, 1);
+    --add-color:rgba(47, 48, 58, 1);
+    --white-color: rgba(255, 255, 255, 1);
+    --blue-color:rgba(33, 150, 243, 1);
+}
+.smm {
+    background-color: var(--add-color);
+}
+.class {
+    background-color: var(--main-color);
+}
+.Edition {
+    background-color: var(--blue-color);
+}
+nav {
+    background-color: var(--white-color);
+}
+button {
+    color: var(--blue-color);
+}
+footer {
+    background-color: var(--add-color);
+}
+ul li {
+    color: var(--white-color);
+}
+li > a {
+    text-decoration: none;
+}
+.smm h1 {
+    color: var(--white-color);
+}
+
+
